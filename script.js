@@ -1,7 +1,7 @@
-function myFunction() {
+/*function myFunction() {
     var element = document.body;
     element.classList.toggle("dark-mode");
-  }
+  } */
 var height = 6; //number of guesses : additional guess for an ad ?
 var width = 5; //length of the word : can be chosen by user
 
